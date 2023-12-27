@@ -9,7 +9,7 @@ export function JoinCommunity() {
             <div className="mx-auto mt-5 md:mx-auto">
                 <button className="flex items-center justify-between py-5 text-white transition-all duration-100 bg-black rounded-lg px-7 w-fit hover:bg-black/70">
                     <FaRegPaperPlane />
-                    <Link rel="stylesheet" href="2364357363" />
+                    <Link rel="stylesheet" href="tel:2364622873" />
                         <span className="ml-3">Realizar llamado</span>
                 </button>
             </div>

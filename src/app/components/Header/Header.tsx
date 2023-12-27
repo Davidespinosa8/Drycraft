@@ -23,9 +23,9 @@ export function Header() {
                 <Navbar openMobileMenu={openMobileMenu} />
 
                 <div className="flex items-center gap-2 md:gap-5">
-                    <Link href="tel: 2364357363" className="flex items-center gap-4 cursor-pointer">
+                    <Link href="tel:2364622873" className="flex items-center gap-4 cursor-pointer">
                         <BsTelephone />
-                        <span className="hidden md:block">+542364357363</span>
+                        <span className="hidden md:block">+542364622873</span>
                     </Link>
                     <Link href="https://wa.me/542364622873" className="px-3 py-2 text-white rounded-lg bg-cyan-500 hover:bg-orange-100" id="contacto">Contacto</Link>
                 </div>
